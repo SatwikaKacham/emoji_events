@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+:root {
+  background-color: #dee2e6;
+}
+.emojis {
+  padding: 1rem 1rem;
+  font-size: 1.6rem;
+  cursor: pointer;
+}
+.meaning {
+  color: brown;
+  font-size: 1.6rem;
+  font-weight: bolder;
+  padding: 2rem;
+}
+.head {
+  text-shadow: 2px 2px 2px black;
+  font-size: 2rem;
+  font-weight: bolder;
+  padding: 2rem;
+}
+input {
+  padding: 1rem 5rem;
+  border: 2px solid black;
+  border-radius: 1rem;
+}
